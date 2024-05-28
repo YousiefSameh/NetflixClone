@@ -1,0 +1,6 @@
+Font: Netflix Sans
+Colors {
+  Red => #e50914
+  Red hover => #C11119
+  Gray => #414141
+}
